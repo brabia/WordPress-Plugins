@@ -1,4 +1,4 @@
-=== Plug & Play ===
+=== Plug & Play === 
 Contributors: djerba
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CGLA4VEY6S3ME
 Tags: wordpress hide admin bar, wordpress security tools, wordpress change login logo, wp generator meta tag remover, wp recents posts shows, posts comparator
