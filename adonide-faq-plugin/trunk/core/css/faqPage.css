@@ -1,0 +1,127 @@
+#faqPage{
+	background: url(../images/icon-32.png) no-repeat scroll left center transparent;
+}
+#wpbody .faqPage_text{ 
+	padding: 5px;
+    width: 100%;
+}
+#postbox-container-1 .faqPage_pro{ 
+	background: url(../images/icon.png) no-repeat scroll center transparent; 
+    display: inline-block;
+    float: left;
+    height: 15px;
+    width: 25px;
+}
+#postbox-container-2 .faqPage_item:hover{
+    border: 1px dashed #DFDFDF;
+	cursor: move; 
+}
+#postbox-container-2 .faqPage_item{
+	background: #FFF; 
+    border: 1px solid #DFDFDF;
+    border-radius: 3px;
+	cursor: move;
+	padding: 5px;
+	margin-bottom:5px;
+}
+#postbox-container-2 .faqPage_question{
+	border: 1px solid #DFDFDF;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+#postbox-container-2 .faqPage_question legend{ 
+	background: #F7F7F7 url(../images/move.png) no-repeat scroll 5px center; 
+    border: 1px solid #DFDFDF; 
+	border-radius: 3px; 
+    padding: 5px 10px 5px 40px;
+    width: 120px;
+}
+#faqPage_response{    
+	display:none;
+	margin-bottom: 20px;
+} 
+#faqPage_response span {
+	float: left;
+	margin-top: 3px;
+}
+#faqPage_response .button {
+	float: right;
+} 
+#faqPage_response .warning {
+	background: url(../images/icon-24.png) no-repeat scroll 5px center #DFF2BF;
+    border: 1px solid #CCCCCC;
+    border-radius: 3px 3px 3px 3px;
+    overflow: auto;
+    padding: 5px 5px 5px 40px;
+}
+
+#poststuff .inside .adonidePlugin, #poststuff .inside .Last{
+	display: inline-block;
+}
+#poststuff .inside .Last{ 
+    margin-right: 0; 
+}
+#poststuff .inside {
+    margin-top: 10px;
+}
+#poststuff .inside b { 
+    padding: 5px;
+}  
+.overlay-bg {
+	display: none;
+	position: fixed;
+	top: 0;
+	left: 0;
+	height:100%;
+	width: 100%;
+	background: #000; /* fallback */
+	background: rgba(0,0,0,0.75);
+}
+.overlay-content button{
+    height: 27px !important; 
+} 
+.overlay-content {
+	background: #fff;  
+    border-radius: 4px 4px 4px 4px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.9);
+    left: 50%;
+    margin: 0 0 0 -20%;
+    overflow: auto;
+    padding: 1%;
+    position: relative;
+    top: 15%;
+    width: 40%;
+} 
+#poststuff .best_choice img{
+	border: 1px solid #DDDDDD;
+    border-radius: 5px 5px 5px 5px;
+    padding: 2px;
+}
+#poststuff .best_choice a{
+	text-decoration:none;
+}
+#poststuff .best_choice, #poststuff .overlay-content p{
+    text-align: center; 
+}
+#poststuff .best_choice{   
+	border: 1px dashed #CCCCCC; 
+}
+#pro_version_request{
+	padding: 10px;
+}
+#aqPage_plugin_active input{
+	margin-bottom: 5px; 
+}
+#aqPage_plugin_active{ 
+    margin: 0 auto;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    width: 320px;
+}
+.adonide_faq h3{
+	text-align: left;
+    background-color: #F3F3F3;
+    border-bottom: 1px solid #ddd;
+    cursor: pointer;
+    border-radius: 0 3px 0 0;
+}

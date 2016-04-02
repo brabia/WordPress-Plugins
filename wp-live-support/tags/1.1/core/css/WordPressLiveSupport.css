@@ -1,0 +1,194 @@
+#WordPressLiveSupportMenu{
+	background: url(../images/icon-32.png) no-repeat scroll left center transparent;
+	display: inline-block;
+    float: left;
+    height: 32px;
+    margin-right: 10px;
+    margin-top: 7px;
+    width: 32px;
+}
+.users_role{ 
+	display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+    text-decoration: none;
+}
+.WordPressLiveSubmit{  
+	margin-top: 10px !important;
+} 
+.show-popup{ 
+	display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+    text-decoration: none;
+} 
+.wordpresslivesupportpro{  
+	border: 1px solid #DDDDDD !important;
+    border-radius: 3px;
+    box-shadow: none !important;
+    margin-bottom: 5px;
+    width: 100%;
+} 
+.WordPressLiveSupportRemainTime{ 
+	font-size: 40px;
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}  
+.WordPressLiveSupportClear{ 
+	clear:both;
+} 
+.WordPressLiveSupportDashboardLogin{  
+	background: url(../images/login.png) no-repeat scroll left transparent;
+} 
+.WordPressLiveSupportDashboardSettings{  
+	background: url(../images/settings.png) no-repeat scroll left transparent;
+}  
+.WordPressLiveSupportDashboard li{   
+	padding-left:20px;
+}  
+#WordPressLiveSupportTabs{ 
+   
+}
+#WordPressLiveSupportTabs .WordPressLiveSupportTab{ 
+	background:#f8fafa;
+    border: 1px solid #e5eaea;
+    display: block;
+	border-radius: 3px 3px 0 0;
+    float: left;
+    margin: 0 1px -1px 0;
+    padding: 10px;  
+    cursor: pointer;
+}
+#WordPressLiveSupportTabs .WordPressLiveSupportActiveTab{ 
+	background: none repeat scroll 0 0 #fff; 
+    border-bottom: 0 none !important;
+    margin-top: 1px;
+    padding-top: 10px;
+}
+#WordPressLiveSupportTabs .WordPressLiveSupportContent{ 
+    display: none;
+}
+#WordPressLiveSupportTabs .WordPressLiveSupportActiveContent{
+	background: none repeat scroll 0 0 #fff;
+    border: 1px solid #e5eaea;
+    clear: both;
+    display: block !important; 
+    padding: 20px;
+    min-height:600px;
+}  
+#WordPressLiveSupportPricingTable { 
+	margin: 0 auto;  
+} 
+#WordPressLiveSupportPricingTable .pricing_table{ 
+	border-bottom: 1px solid #ddd;
+    border-left: 1px solid #ddd; 
+    float: left;
+    padding: 0 0 25px;
+    text-align: center;
+    width: 24.8%;
+}
+#WordPressLiveSupportPricingTable .pricing_table_latest{  
+	border-left: 0 solid #ddd;
+    border-right: 1px solid #ddd
+}
+#WordPressLiveSupportPricingTable .last_pricing_table{ 
+	border-left: 0px solid #ddd !important;
+	border-right: 1px solid #ddd !important;
+} 
+#WordPressLiveSupportPricingTable .pricing_table .title{ 
+	background: none repeat scroll 0 0 #eabd63; 
+    font-weight: bold;
+	margin-bottom:0;
+    padding: 10px;
+} 
+#WordPressLiveSupportPricingTable .BestOffer{ 
+	border: 1px solid #f2a916;
+    border-radius: 3px;
+    margin: 0;
+    padding-bottom: 45px;
+    position: relative;
+}
+#WordPressLiveSupportPricingTable .BestOffer .title{  
+	background: none repeat scroll 0 0 #f2a916; 
+    padding: 17px 0 16px !important
+}
+#WordPressLiveSupportPricingTable .BestOffer .standard{  
+	background:url(../images/standard.png) no-repeat right center;  
+	display: block;
+    height: 70px;
+    position: absolute;
+    right: -4px;
+    top: -4px;
+    width: 70px;
+} 
+#WordPressLiveSupportPricingTable .pricing_table .price{ 
+	background: none repeat scroll 0 0 #f6f6f6;
+    font-size: 26px;
+    font-weight: bold;
+    padding: 10px;
+} 
+#WordPressLiveSupportPricingTable .pricing_table .bullet-item, #WordPressLiveSupportPricingTable .pricing_table .description{ 
+	background:url(../images/check.png) no-repeat;
+	border-bottom: 1px solid #ddd;
+    margin: 10px;
+	color: #444444;
+    padding: 5px;
+} 
+#WordPressLiveSupportPricingTable .pricing_table .description{ 
+	background:url(../images/check-off.png) no-repeat; 
+} 
+.WordPressLiveSupportBlock{ 
+    border-radius: 3px;
+    float: left;
+    font-weight: bold;
+    height: 128px;
+    margin-right: 15px;
+    padding: 10px;
+    text-align: center;
+    width: 128px;
+}
+.WordPressLiveSupportBlock a{  
+	display: block;
+    height: 128px;
+    width: 128px;
+}
+.WordPressLiveSupportBlockAccount{ 
+    background:#f2a916 url(../images/account.png) no-repeat center;
+}
+.WordPressLiveSupportBlockAccount:hover{ 
+    background:#f2a916 url(../images/account_hover.png) no-repeat center;
+}
+.WordPressLiveSupportBlockSupport{ 
+    background:#f2a916 url(../images/support.png) no-repeat center;
+}
+.WordPressLiveSupportBlockSupport:hover{ 
+    background:#f2a916 url(../images/support_hover.png) no-repeat center;
+}
+.WordPressLiveSupportBlockGlobe{ 
+    background:#f2a916 url(../images/globe.png) no-repeat center;
+}
+.WordPressLiveSupportBlockGlobe:hover{ 
+    background:#f2a916 url(../images/globe_hover.png) no-repeat center;
+}
+.WordPressLiveSupportPub{
+	border: 1px solid #ddd;
+    height: 90px;
+    margin: 20px auto 0;
+    text-align: center;
+    width: 728px;
+}
+#WordPressLiveSupportPricingTable .button-primary {
+    background: none repeat scroll 0 0 #2ea2cc;
+    border-color: #0074a2;
+    box-shadow: 0 1px 0 rgba(120, 200, 230, 0.5) inset, 0 1px 0 rgba(0, 0, 0, 0.15);
+    color: #fff;
+    padding: 0 20px 5px;
+    text-decoration: none;
+}
+#WordPressLiveSupportOffers .WordPressLiveSupport728{
+	margin-top: 20px;
+    text-align: center;
+}
+	

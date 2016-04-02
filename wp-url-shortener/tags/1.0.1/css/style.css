@@ -1,0 +1,69 @@
+.Tabs {
+    margin-bottom: -1px;
+    padding: 3px 10px 0px 10px;
+}
+
+.Tabs a {
+    border: 1px solid #AAA;
+    display: inline-block;
+    padding: 3px 15px;
+    text-decoration: none;
+    color: #333;
+    background: #F5F5F5;
+    border-radius: 8px 8px 0px 0px;
+    -moz-border-radius: 8px 8px 0px 0px;
+}
+
+.Tabs a:hover {
+    background: #F7F7F7;
+    color: #555;
+}
+
+.Tabs a.Active {
+    border: 1px solid #888;
+    background: #FFF;
+    border-bottom: 1px solid #FFF;
+}
+
+.TabBody {
+	overflow:auto;	
+	border: 1px solid #888;
+    padding: 10px;
+    border-radius: 8px;
+    -moz-border-radius: 8px;
+}
+
+.TabBody .left{
+    float:left; 
+}
+
+.TabBody .right{
+    float:right; 
+	width:650px;
+}
+
+.TabBody .right .adv{
+     border-radius: 5px;
+    -moz-border-radius: 5px;
+	border:1px solid #ddd;
+	width:650px;
+	height:100px;
+	padding-top:50px;
+	text-align:center; 
+	color:#ddd;
+}
+
+.TabBody  h1{
+	font-size:14px;
+}
+
+.TabBody  table td {
+	font-size:12px;
+}
+
+.TabBody  table td input {
+	width:300px;
+}
+.TabBody  table td .button-primary{
+	width:200px;
+}

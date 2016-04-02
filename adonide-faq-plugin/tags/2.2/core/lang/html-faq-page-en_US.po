@@ -1,0 +1,255 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: HTML FAQ PAGE WP\n"
+"POT-Creation-Date: 2013-10-08 12:23+0100\n"
+"PO-Revision-Date: 2013-10-08 12:24+0100\n"
+"Last-Translator: Bassem Rabia <bassem.rabii@spectrumgroupe.fr>\n"
+"Language-Team: Bassem Rabia <bassem.rabia@hotmail.co.uk>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: D:/wamp/www/adonide/web-dev/wp-content/plugins/html-"
+"faq-page\n"
+
+#: D:/wamp/www/adonide/web-dev/wp-content/plugins/html-faq-page/core/html-faq-page-postType.php:203
+#: D:/wamp/www/adonide/web-dev/wp-content/plugins/html-faq-page/core/html-faq-page-postType.php:215
+msgid "Questions"
+msgstr ""
+
+#: D:/wamp/www/adonide/web-dev/wp-content/plugins/html-faq-page/core/html-faq-page-postType.php:204
+msgid "Question"
+msgstr ""
+
+#: D:/wamp/www/adonide/web-dev/wp-content/plugins/html-faq-page/core/html-faq-page-postType.php:205
+msgid "Nouvelle Question"
+msgstr "New Question"
+
+#: D:/wamp/www/adonide/web-dev/wp-content/plugins/html-faq-page/core/html-faq-page-postType.php:206
+msgid "Ajouter une nouvelle Question"
+msgstr "Add new question"
+
+#: D:/wamp/www/adonide/web-dev/wp-content/plugins/html-faq-page/core/html-faq-page-postType.php:207
+msgid "Modification"
+msgstr ""
+
+#: D:/wamp/www/adonide/web-dev/wp-content/plugins/html-faq-page/core/html-faq-page-postType.php:208
+msgid "Nouvelle Question "
+msgstr ""
+
+#: D:/wamp/www/adonide/web-dev/wp-content/plugins/html-faq-page/core/html-faq-page-postType.php:209
+msgid "Toutes les Questions"
+msgstr ""
+
+#: D:/wamp/www/adonide/web-dev/wp-content/plugins/html-faq-page/core/html-faq-page-postType.php:210
+msgid "Afficher les Questions"
+msgstr ""
+
+#: D:/wamp/www/adonide/web-dev/wp-content/plugins/html-faq-page/core/html-faq-page-postType.php:211
+msgid "Recherche"
+msgstr ""
+
+#: D:/wamp/www/adonide/web-dev/wp-content/plugins/html-faq-page/core/html-faq-page-postType.php:212
+msgid "Aucune Question n&apos;a &eacute;t&eacute; trouv&eacute;e"
+msgstr ""
+
+#: D:/wamp/www/adonide/web-dev/wp-content/plugins/html-faq-page/core/html-faq-page-postType.php:213
+msgid ""
+"Aucune Question n&apos;a &eacute;t&eacute; trouv&eacute;e dans le corbeille"
+msgstr ""
+
+#: D:/wamp/www/adonide/web-dev/wp-content/plugins/html-faq-page/core/html-faq-page-postType.php:235
+msgid "Aide"
+msgstr "Help"
+
+#: D:/wamp/www/adonide/web-dev/wp-content/plugins/html-faq-page/core/html-faq-page-postType.php:245
+msgid "taxonomies"
+msgstr ""
+
+#: D:/wamp/www/adonide/web-dev/wp-content/plugins/html-faq-page/core/html-faq-page-postType.php:248
+msgid "Taxonomies"
+msgstr ""
+
+#: D:/wamp/www/adonide/web-dev/wp-content/plugins/html-faq-page/core/html-faq-page-postType.php:261
+msgid ""
+"L&apos;activation de la version PRO est effectu&eacute;e avec succ&egrave;s "
+msgstr "The PRO version is successfully activated"
+
+#: D:/wamp/www/adonide/web-dev/wp-content/plugins/html-faq-page/core/html-faq-page-postType.php:291
+#: D:/wamp/www/adonide/web-dev/wp-content/plugins/html-faq-page/core/html-faq-page-postType.php:310
+msgid "Demande de la version PRO est envoyée avec succ&egrave;s"
+msgstr "The PRO version is successfully activated"
+
+#: D:/wamp/www/adonide/web-dev/wp-content/plugins/html-faq-page/core/html-faq-page-postType.php:294
+msgid "erreur lors de l&apos;envoi du message"
+msgstr ""
+
+#: D:/wamp/www/adonide/web-dev/wp-content/plugins/html-faq-page/core/html-faq-page-postType.php:325
+msgid "Support"
+msgstr "Support"
+
+#: D:/wamp/www/adonide/web-dev/wp-content/plugins/html-faq-page/core/html-faq-page-postType.php:329
+msgid "Demander du Support"
+msgstr "Apply for Support"
+
+#: D:/wamp/www/adonide/web-dev/wp-content/plugins/html-faq-page/core/html-faq-page-postType.php:342
+#: D:/wamp/www/adonide/web-dev/wp-content/plugins/html-faq-page/core/html-faq-page-postType.php:392
+msgid "Annuler"
+msgstr "Cancel"
+
+#: D:/wamp/www/adonide/web-dev/wp-content/plugins/html-faq-page/core/html-faq-page-postType.php:346
+#: D:/wamp/www/adonide/web-dev/wp-content/plugins/html-faq-page/core/html-faq-page-postType.php:439
+msgid "Ajout des questions et des réponses"
+msgstr "Adding questions and answers"
+
+#: D:/wamp/www/adonide/web-dev/wp-content/plugins/html-faq-page/core/html-faq-page-postType.php:347
+#: D:/wamp/www/adonide/web-dev/wp-content/plugins/html-faq-page/core/html-faq-page-postType.php:440
+msgid "Personnalisation Style"
+msgstr "Customizing Style"
+
+#: D:/wamp/www/adonide/web-dev/wp-content/plugins/html-faq-page/core/html-faq-page-postType.php:348
+#: D:/wamp/www/adonide/web-dev/wp-content/plugins/html-faq-page/core/html-faq-page-postType.php:441
+msgid "Instances multiples"
+msgstr ""
+
+#: D:/wamp/www/adonide/web-dev/wp-content/plugins/html-faq-page/core/html-faq-page-postType.php:349
+#: D:/wamp/www/adonide/web-dev/wp-content/plugins/html-faq-page/core/html-faq-page-postType.php:442
+msgid "Mise à jour de l&apos;ordre des questions"
+msgstr "Updating the order of questions"
+
+#: D:/wamp/www/adonide/web-dev/wp-content/plugins/html-faq-page/core/html-faq-page-postType.php:350
+#: D:/wamp/www/adonide/web-dev/wp-content/plugins/html-faq-page/core/html-faq-page-postType.php:443
+msgid "TinyMCE Boutton"
+msgstr ""
+
+#: D:/wamp/www/adonide/web-dev/wp-content/plugins/html-faq-page/core/html-faq-page-postType.php:351
+#: D:/wamp/www/adonide/web-dev/wp-content/plugins/html-faq-page/core/html-faq-page-postType.php:444
+msgid "Premium support"
+msgstr ""
+
+#: D:/wamp/www/adonide/web-dev/wp-content/plugins/html-faq-page/core/html-faq-page-postType.php:386
+msgid "Passer à la version PRO GRATUITEMENT"
+msgstr "Skip to the PRO version for FREE"
+
+#: D:/wamp/www/adonide/web-dev/wp-content/plugins/html-faq-page/core/html-faq-page-postType.php:390
+msgid ""
+"Note: un email sera envoy&eacute; &agrave; votre nom &agrave; l'&eacute;"
+"quipe de d&eacute;velopement."
+msgstr "Note: An email will be sent in your name to the development team."
+
+#: D:/wamp/www/adonide/web-dev/wp-content/plugins/html-faq-page/core/html-faq-page-postType.php:400
+msgid "Aimez-vous ce plugins?"
+msgstr "Do you like this plugin?"
+
+#: D:/wamp/www/adonide/web-dev/wp-content/plugins/html-faq-page/core/html-faq-page-postType.php:403
+msgid "S&apos;il vous plaît prenez quelques secondes pour soutenir"
+msgstr "Please take a few seconds to support"
+
+#: D:/wamp/www/adonide/web-dev/wp-content/plugins/html-faq-page/core/html-faq-page-postType.php:405
+msgid "&Eacute;valuer nous sur WordPress.org"
+msgstr "Evaluate us on WordPress.org"
+
+#: D:/wamp/www/adonide/web-dev/wp-content/plugins/html-faq-page/core/html-faq-page-postType.php:408
+msgid "Faire un don"
+msgstr "Donate"
+
+#: D:/wamp/www/adonide/web-dev/wp-content/plugins/html-faq-page/core/html-faq-page-postType.php:412
+msgid "Merci pour votre soutien"
+msgstr "Thank you for your support"
+
+#: D:/wamp/www/adonide/web-dev/wp-content/plugins/html-faq-page/core/html-faq-page-postType.php:417
+msgid "Guide d&apos;utilisation"
+msgstr "User Guide"
+
+#: D:/wamp/www/adonide/web-dev/wp-content/plugins/html-faq-page/core/html-faq-page-postType.php:421
+msgid ""
+"S&eacute;lectionner Questions dans le menu &agrave; gauche, ajouter des "
+"Questions et des Réponses"
+msgstr "Select Questions in the left menu, add Questions and Answers"
+
+#: D:/wamp/www/adonide/web-dev/wp-content/plugins/html-faq-page/core/html-faq-page-postType.php:424
+msgid "Utiliser le nouveau bouton depuis votre WYSIWYG"
+msgstr "Use new button from your WYSIWYG"
+
+#: D:/wamp/www/adonide/web-dev/wp-content/plugins/html-faq-page/core/html-faq-page-postType.php:426
+msgid " OU, Ins&eacute;rer"
+msgstr "OR, Insert"
+
+#: D:/wamp/www/adonide/web-dev/wp-content/plugins/html-faq-page/core/html-faq-page-postType.php:428
+msgid "dans vos pages ou articles"
+msgstr "in your pages and articles"
+
+#: D:/wamp/www/adonide/web-dev/wp-content/plugins/html-faq-page/core/html-faq-page-postType.php:431
+msgid "C'est fini"
+msgstr "It's finished"
+
+#: D:/wamp/www/adonide/web-dev/wp-content/plugins/html-faq-page/core/html-faq-page-postType.php:479
+msgid "Listes des Questions"
+msgstr "Questions lists"
+
+#: D:/wamp/www/adonide/web-dev/wp-content/plugins/html-faq-page/core/html-faq-page-postType.php:547
+msgid "Pour utiliser cette fonction merci bien enregistrer votre copie !"
+msgstr "To use this function well thank you register your copy"
+
+#: D:/wamp/www/adonide/web-dev/wp-content/plugins/html-faq-page/core/html-faq-page-postType.php:559
+msgid "Nous vous recommandons"
+msgstr "We recommend"
+
+#: D:/wamp/www/adonide/web-dev/wp-content/plugins/html-faq-page/core/updateList.php:20
+msgid "L&apos;ordre des questions est mis &agrave; jour avec succ&egrave;s !"
+msgstr "The order of questions is updated successfully!"
+
+#~ msgid "Vous avez un problème?"
+#~ msgstr "You have a problem?"
+
+#~ msgid "Passer à la version PRO"
+#~ msgstr "Skip to the PRO version"
+
+#~ msgid "numéro d'activation"
+#~ msgstr "activation number"
+
+#~ msgid "Activation"
+#~ msgstr "Activation"
+
+#~ msgid "Activer la version Pro"
+#~ msgstr "Activate the Pro version"
+
+#, fuzzy
+#~ msgid "Passer à la version PRO Gratuitement"
+#~ msgstr "Skip to the PRO version"
+
+#~ msgid "Version gratuite"
+#~ msgstr "Free version"
+
+#~ msgid "Plusieurs instances distinctes"
+#~ msgstr "Several separate instances"
+
+#~ msgid "Réponse aux questions assur&eacute;e par email"
+#~ msgstr "Assistance provided by email"
+
+#~ msgid "Pensez à faire la configuration"
+#~ msgstr "&nbsp;Please update now."
+
+#~ msgid "est disponible! "
+#~ msgstr "is ready"
+
+#~ msgid "&nbsp;Pensez à faire la mise à jour"
+#~ msgstr "&nbsp;Please update now."
+
+#~ msgid "Notion de cat&eacute;gorie"
+#~ msgstr "Notion of categories"
+
+#~ msgid "Appel de "
+#~ msgstr "Call"
+
+#~ msgid "Bonjour"
+#~ msgstr "Hello"
+
+#~ msgid "Bonjour Tous le monde"
+#~ msgstr "Hello US"
+
+#~ msgid "Test"
+#~ msgstr "Test EN"

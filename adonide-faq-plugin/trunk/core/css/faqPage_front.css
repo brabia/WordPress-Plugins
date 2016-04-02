@@ -1,0 +1,30 @@
+/**
+	@ ------------------------------------------------------
+	@	Short Code
+	@ ------------------------------------------------------  
+**/
+#html_faq_page li, #html_faq_page li p{ 
+    list-style: none outside none;
+    margin: 0 auto;
+    padding: 0;
+}
+#html_faq_page li a{ 
+	display: block;
+}
+#html_faq_page li a, #html_faq_page .faqPage_content{ 
+	padding:5px;
+}
+#html_faq_page li{ 
+    background: none repeat scroll 0 0 #F3F3F3;
+    border: 1px solid #DDDDDD;
+    border-radius: 3px 3px 0 0;
+    display: block;
+    margin-bottom: 20px; 
+}
+#html_faq_page .faqPage_content{ 
+    background: none repeat scroll 0 0 #FAFAFA;
+    border-top: 1px solid #DDDDDD;
+    border-radius: 0;
+    display: none; 
+    padding: 5px;
+}
