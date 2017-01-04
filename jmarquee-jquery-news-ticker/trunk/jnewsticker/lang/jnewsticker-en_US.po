@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: jQuery News Ticker\n"
+"POT-Creation-Date: 2016-06-27 09:53+0300\n"
+"PO-Revision-Date: 2016-06-27 09:53+0300\n"
+"Last-Translator: \n"
+"Language-Team: bassem.rabia@gmail.com\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: jnewsticker/jnewsticker.php:97
+msgid "User Guide"
+msgstr "User Guide"
+
+#: jnewsticker/jnewsticker.php:100
+msgid "Install"
+msgstr ""
+
+#: jnewsticker/jnewsticker.php:101
+msgid "Run"
+msgstr ""
+
+#: jnewsticker/jnewsticker.php:102
+msgid "Enjoy"
+msgstr ""
+
+#: jnewsticker/jnewsticker.php:103
+msgid "Ask for Support if you need"
+msgstr ""
+
+#: jnewsticker/jnewsticker.php:126
+msgid "has been successfully updated"
+msgstr ""
+
+#: jnewsticker/jnewsticker.php:137
+msgid "Settings"
+msgstr ""
+
+#: jnewsticker/jnewsticker.php:141
+msgid "Please insert title"
+msgstr ""
+
+#: jnewsticker/jnewsticker.php:142
+msgid "Title"
+msgstr ""
+
+#: jnewsticker/jnewsticker.php:143
+msgid "Please select background color"
+msgstr ""
+
+#: jnewsticker/jnewsticker.php:144
+msgid "Background color"
+msgstr ""
+
+#: jnewsticker/jnewsticker.php:145
+msgid "Please select title background"
+msgstr ""
+
+#: jnewsticker/jnewsticker.php:146
+msgid "Title Background"
+msgstr ""
+
+#: jnewsticker/jnewsticker.php:148
+msgid "Top of the page"
+msgstr ""
+
+#: jnewsticker/jnewsticker.php:151
+msgid "Bottom of the page"
+msgstr ""
+
+#: jnewsticker/jnewsticker.php:153
+msgid "Position"
+msgstr ""
+
+#: jnewsticker/jnewsticker.php:155
+msgid "Save"
+msgstr "Save"
+
+#~ msgid "Send Notification"
+#~ msgstr "Notify Users"
+
+#~ msgid "Register"
+#~ msgstr "You need to create an account to get an API Key, to start sending web push notifications."
