@@ -1,7 +1,7 @@
 <?php
 /***************************************************************
 	@
-	@	WP Plug & Play
+	@	'WP Plug & Play
 	@	bassem.rabia@gmail.com
 	@
 /**************************************************************/
@@ -12,7 +12,7 @@ class WP2P{
 			'pluginName' => 'Plug & Play',
 			'pluginNiceName' => 'WP Plug & Play',
 			'pluginSlug' => 'plug-and-play',
-			'pluginVersion' => '1.2',
+			'pluginVersion' => '1.1',
 			'pluginRemoteURL' => 'http://store.norfolky.com/',
 		); 		
 		// echo '<pre>';print_r($this->bPressSignature);echo '</pre>'; 
@@ -83,7 +83,7 @@ class WP2P{
 			?>
 			<style>@import url(//store.norfolky.com/bPress.css)</style>
 			<div id="bPress_under_maintenance">
-				<h1><?php echo get_bloginfo();?></h1>
+				<h1><?php _e("We're coming soon", 'bPress'); ?></h1>
 				<p><?php _e('We are working very hard on the new version of our site. Stay tuned', 'bPress'); ?> !</p>
 				<div id="bPress_timer">
 					<div class="Days"><span class="value">-</span><span class="key"><?php echo __('Day', 'bPress');?><span></div>			

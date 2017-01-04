@@ -3,7 +3,7 @@
 		Plugin Name: Plug & Play
 		Description: <strong>Plug and Play</strong> our feautures and turn your WordPress Blog into a <strong>Highly Interactive, Elegant and Secure</strong> Blog.
 		Plugin URI: https://wordpress.org/plugins/plug-and-play/
-		Version: 1.2
+		Version: 1.1
 		Author: Bassem Rabia
 		Author URI: mailto:bassem.rabia@gmail.com
 		License: GPLv2
@@ -14,8 +14,8 @@
 		
 	require_once(dirname(__FILE__).'/bPress/WP2P.class.php');
 	$WP2P = new WP2P(); 
-	function papLanguage(){
+	function bPressLanguage(){
 		load_plugin_textdomain('bPress', false, basename(dirname(__FILE__) ).'/bPress/lang'); 
 	}
-	add_action('plugins_loaded', 'papLanguage');
+	add_action('plugins_loaded', 'bPressLanguage');
 ?>

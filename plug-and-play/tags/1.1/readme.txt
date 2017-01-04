@@ -3,8 +3,8 @@ Contributors: djerba
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CGLA4VEY6S3ME
 Tags: wordpress hide admin bar, wordpress security tools, wordpress change login logo, wp generator meta tag remover, wp recents posts shows, posts comparator
 Requires at least: 3.9.0
-Tested up to: 4.5.3
-Stable tag: 1.2
+Tested up to: 4.4
+Stable tag: 3.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -35,9 +35,6 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 	
 == Changelog ==
 
-= Version 1.2 Jul 11th, 2016 =
-* CHANGED: minor bugs fixed
-
 = Version 1.1 Feb 20th, 2016 =
 * CHANGED: New features
 * CHANGED: minor bugs fixed
@@ -56,9 +53,5 @@ Go to [https://wordpress.org/plugins/plug-and-play/)
 4. Login Logo
 
 == Upgrade Notice == 
-* 1.3: 1.1 release
-* Minor bug fixes
-
 * 1.1: 1.1 release
-
 * 1.0: First release
