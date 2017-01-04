@@ -3,8 +3,8 @@ Contributors: djerba
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MEUX57DRQRHY4
 Tags: wordpress, tags, facebook tags, facebook meta tags, twitter meta tags, twitter meta tags, social meta tags
 Requires at least: 3.4.0
-Tested up to: 4.7
-Stable tag: 1.7
+Tested up to: 4.6
+Stable tag: 1.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html 
 
@@ -28,7 +28,6 @@ Social Meta Tags will generate social media meta data for all new posts that you
 
 == Upgrade Notice ==
 
-= 1.7 =
 = 1.6 =
 = 1.5 =
 = 1.4 =
@@ -39,9 +38,6 @@ Social Meta Tags will generate social media meta data for all new posts that you
 = 1.0 =
 
 == Changelog ==
-
-= 1.7 =
-* WP 4.7 compatibility
 
 = 1.6 =
 * WP 4.6 compatibility
