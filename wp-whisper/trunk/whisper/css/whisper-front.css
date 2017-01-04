@@ -1,0 +1,44 @@
+.whisper-container{
+	
+}
+.whisper-container h3{
+	margin: 0;
+    border-bottom: 1px dashed #e8e8e8;
+    padding: 0;
+    padding-bottom: 5px;	
+}
+.whisper-container .whisper-content{
+	
+}
+.whisper-container .whisper-content .whisper-article{
+	border: 1px solid #e8e8e8;
+    width: 24%;
+    float: left;
+    margin-right: 5px;
+    padding: 5px;
+    margin-bottom: 5px;
+	height: 215px;
+}
+.whisper-container .whisper-content .whisper-article a{
+}
+.whisper-container .whisper-content .whisper-article a .img{
+	height: 128px;	
+    border-bottom: 1px dashed #e8e8e8;
+	background-position: center center !important;
+    background-repeat: no-repeat !important;
+	background-size:128px auto !important;
+    display: block;
+    width: 100%;
+}
+.whisper-container .whisper-content .whisper-article a .img img{
+	margin-bottom: 5px;	
+}
+.whisper-container .whisper-content .whisper-article a h5{
+	margin: 0;
+    padding: 0;
+    font-weight: normal;
+    font-size: 12px;
+    text-align: center;
+	text-transform: none;
+    margin-top: 5px;
+}
